@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7d88b5bc-3f2d-4676-9f09-2688444ecd1b" name="Changes" comment="Update 21.2.2022">
-      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CursJava3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CursJava3.iml" afterDir="false" />
-    </list>
+    <list default="true" id="7d88b5bc-3f2d-4676-9f09-2688444ecd1b" name="Changes" comment="Update 23.2.2022" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -120,7 +116,7 @@
       <updated>1645397613657</updated>
       <workItem from="1645397617776" duration="122000" />
       <workItem from="1645460634761" duration="4434000" />
-      <workItem from="1645633400015" duration="3667000" />
+      <workItem from="1645633400015" duration="4176000" />
     </task>
     <task id="LOCAL-00001" summary="Update 21.2.2022">
       <created>1645460939719</created>
@@ -150,7 +146,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645461221238</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Update 23.2.2022">
+      <created>1645640057114</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1645640057114</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -169,6 +172,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Update 21.2.2022" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update 21.2.2022" />
+    <MESSAGE value="Update 23.2.2022" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update 23.2.2022" />
   </component>
 </project>
