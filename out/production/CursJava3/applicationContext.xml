@@ -16,6 +16,24 @@
           class="Curs3.HomeworkService">
     </bean>
 
+    <bean id="myCat"
+          class="TemaCurs3.Cat">
+    </bean>
+
+    <bean id="myDog"
+          class="TemaCurs3.Dog">
+        <constructor-arg ref="animalName"/>
+    </bean>
+
+    <bean id="animalName"
+          class="TemaCurs3.AnimalName">
+    </bean>
+
+
+<bean id="myMouse"
+          class="TemaCurs3.Mouse">
+    </bean>
+
 <!--    <bean id="myTeacher"-->
 <!--          class="Curs3.MathTeacher">-->
 <!--    </bean>-->
