@@ -1,15 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7d88b5bc-3f2d-4676-9f09-2688444ecd1b" name="Changes" comment="Update 23.2.2022">
+    <list default="true" id="7d88b5bc-3f2d-4676-9f09-2688444ecd1b" name="Changes" comment="Tema Curs3">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CursJava3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CursJava3.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/resources/applicationContext.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -28,6 +31,7 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -79,18 +83,19 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/spring-framework-5.3.9/libs" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/aspectjtools-1.9.8.jar" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\nichi\IdeaProjects\CursJava3\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AnimalSpringApp">
+  <component name="RunManager" selected="Application.TaskApp">
     <configuration name="AnimalSpringApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TemaCurs3.AnimalSpringApp" />
       <module name="CursJava3" />
@@ -117,8 +122,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TaskApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="temacurs5.TaskApp" />
+      <module name="Curs5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="temacurs5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TaskApp" />
         <item itemvalue="Application.AnimalSpringApp" />
         <item itemvalue="Application.MyFirstSpringApp" />
       </list>
@@ -135,7 +154,13 @@
       <workItem from="1645397617776" duration="122000" />
       <workItem from="1645460634761" duration="4434000" />
       <workItem from="1645633400015" duration="5986000" />
-      <workItem from="1645985433273" duration="3508000" />
+      <workItem from="1645985433273" duration="6523000" />
+      <workItem from="1646065003889" duration="751000" />
+      <workItem from="1646070042853" duration="1426000" />
+      <workItem from="1646075032707" duration="503000" />
+      <workItem from="1646075578374" duration="780000" />
+      <workItem from="1646239136584" duration="4829000" />
+      <workItem from="1646562474219" duration="3407000" />
     </task>
     <task id="LOCAL-00001" summary="Update 21.2.2022">
       <created>1645460939719</created>
@@ -186,7 +211,21 @@
       <option name="project" value="LOCAL" />
       <updated>1645640188919</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Tema Curs3">
+      <created>1645989177667</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1645989177667</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Tema Curs3">
+      <created>1645989196911</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1645989196911</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -206,6 +245,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Update 21.2.2022" />
     <MESSAGE value="Update 23.2.2022" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update 23.2.2022" />
+    <MESSAGE value="Tema Curs3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tema Curs3" />
   </component>
 </project>
