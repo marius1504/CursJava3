@@ -35,6 +35,6 @@
     </bean>
 
 <!--    <bean id="myTeacher"-->
-<!--          class="Curs3.MathTeacher">-->
+<!--          class="MathTeacher">-->
 <!--    </bean>-->
 </beans>

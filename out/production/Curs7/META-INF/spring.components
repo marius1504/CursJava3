@@ -1,0 +1,2 @@
+curs5.MyCustomBeanProcessor=org.springframework.stereotype.Component
+curs5.WebDevTeacher=org.springframework.stereotype.Component

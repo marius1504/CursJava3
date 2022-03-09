@@ -1,5 +1,7 @@
 package temacurs5;
 
+import org.jetbrains.annotations.NotNull;
+
 import java.util.Random;
 import java.util.concurrent.TimeUnit;
 public class Task {
@@ -15,9 +17,9 @@ public class Task {
         TimeUnit.SECONDS.sleep(executionTime);
     }
 
-    private Integer generateId(){
-        int int_random = new Random().nextInt(Integer.MAX_VALUE);
-        return int_random;
+    private @NotNull
+    Integer generateId(){
+        return new Random().nextInt(Integer.MAX_VALUE);
     }
 
 
