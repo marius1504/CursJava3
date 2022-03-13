@@ -1,4 +1,5 @@
 package TemaCurs3;
+
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 public class AnimalSpringApp {

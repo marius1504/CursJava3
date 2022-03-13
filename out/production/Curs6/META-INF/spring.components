@@ -1,0 +1,3 @@
+tema.curs6.HistoryTeacher=org.springframework.stereotype.Component
+tema.curs6.MathTeacher=org.springframework.stereotype.Component
+tema.curs6.WisdomWordsService=org.springframework.stereotype.Component

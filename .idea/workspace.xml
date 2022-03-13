@@ -1,27 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7d88b5bc-3f2d-4676-9f09-2688444ecd1b" name="Changes" comment="Tema curs 5 without AOP">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="7d88b5bc-3f2d-4676-9f09-2688444ecd1b" name="Changes" comment="Tema curs 6">
+      <change afterPath="$PROJECT_DIR$/Curs6/src/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curs6/src/resources/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curs6/src/tema/curs6/HistoryTeacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curs6/src/tema/curs6/HomeWorkService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curs6/src/tema/curs6/ITeacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curs6/src/tema/curs6/JavaTeacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curs6/src/tema/curs6/MathTeacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curs6/src/tema/curs6/MyFirstSpringAnnotationApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curs6/src/tema/curs6/WisdomWordsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Curs5/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Curs6/META-INF/spring.components" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Curs6/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Curs6/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Curs6/tema/curs6/HistoryTeacher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Curs6/tema/curs6/HomeWorkService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Curs6/tema/curs6/ITeacher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Curs6/tema/curs6/JavaTeacher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Curs6/tema/curs6/MathTeacher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Curs6/tema/curs6/MyFirstSpringAnnotationApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Curs6/tema/curs6/WisdomWordsService.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curs3/src/TemaCurs3/AnimalSpringApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/Curs3/src/TemaCurs3/AnimalSpringApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Curs5/Curs5.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Curs5/Curs5.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curs5/src/temacurs5/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/Curs5/src/temacurs5/Task.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Curs5/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Curs5/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Curs5/temacurs5/Task.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Curs5/temacurs5/Task.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Curs3/resources/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Curs3/HistoryTeacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/Curs3/src/Curs3/HistoryTeacher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Curs3/HomeworkService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Curs3/src/Curs3/HomeworkService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Curs3/ITeacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/Curs3/src/Curs3/ITeacher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Curs3/JavaTeacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/Curs3/src/Curs3/JavaTeacher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Curs3/MathTeacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/Curs3/src/Curs3/MathTeacher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Curs3/MyFirstSpringApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/Curs3/src/Curs3/MyFirstSpringApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Curs3/WisdomWordsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Curs3/src/Curs3/WisdomWordsService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TemaCurs3/AnimalName.java" beforeDir="false" afterPath="$PROJECT_DIR$/Curs3/src/TemaCurs3/AnimalName.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TemaCurs3/AnimalSpringApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/Curs3/src/TemaCurs3/AnimalSpringApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TemaCurs3/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/Curs3/src/TemaCurs3/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TemaCurs3/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/Curs3/src/TemaCurs3/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TemaCurs3/IAnimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/Curs3/src/TemaCurs3/IAnimal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TemaCurs3/Mouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/Curs3/src/TemaCurs3/Mouse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curs5/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Curs5/src/resources/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curs6/Curs6.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Curs6/Curs6.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,10 +118,14 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\nichi\IdeaProjects\CursJava3\resources" />
+      <recent name="C:\Users\nichi\IdeaProjects\CursJava3\Curs6\src" />
+      <recent name="C:\Users\nichi\IdeaProjects\CursJava3\Curs6\src\tema\curs6" />
+      <recent name="C:\Users\nichi\IdeaProjects\CursJava3\Curs5\src" />
+      <recent name="C:\Users\nichi\IdeaProjects\CursJava3\Curs6\resources" />
+      <recent name="C:\Users\nichi\IdeaProjects\CursJava3\Curs3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AnimalSpringApp (1)">
+  <component name="RunManager" selected="Application.MyFirstSpringAnnotationApp (1)">
     <configuration name="AnimalSpringApp (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TemaCurs3.AnimalSpringApp" />
       <module name="Curs3" />
@@ -130,12 +139,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AnimalSpringApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TemaCurs3.AnimalSpringApp" />
-      <module name="CursJava3" />
+    <configuration name="MyFirstSpringAnnotationApp (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tema.curs6.MyFirstSpringAnnotationApp" />
+      <module name="Curs6" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TemaCurs3.*" />
+          <option name="PATTERN" value="tema.curs6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,12 +152,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyFirstSpringAnnotationApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="curs5.MyFirstSpringAnnotationApp" />
-      <module name="Curs7" />
+    <configuration name="MyFirstSpringApp (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tema.curs6.MyFirstSpringApp" />
+      <module name="Curs6" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="curs5.*" />
+          <option name="PATTERN" value="tema.curs6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,12 +165,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyFirstSpringApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Curs3.MyFirstSpringApp" />
-      <module name="CursJava3" />
+    <configuration name="MyFirstSpringAppV2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tema.curs6.MyFirstSpringAppV2" />
+      <module name="Curs6" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Curs3.*" />
+          <option name="PATTERN" value="tema.curs6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -184,11 +193,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AnimalSpringApp (1)" />
-        <item itemvalue="Application.MyFirstSpringAnnotationApp" />
+        <item itemvalue="Application.MyFirstSpringAnnotationApp (1)" />
+        <item itemvalue="Application.MyFirstSpringAppV2" />
         <item itemvalue="Application.TaskApp" />
-        <item itemvalue="Application.AnimalSpringApp" />
-        <item itemvalue="Application.MyFirstSpringApp" />
+        <item itemvalue="Application.MyFirstSpringApp (1)" />
+        <item itemvalue="Application.AnimalSpringApp (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -211,7 +220,9 @@
       <workItem from="1646239136584" duration="4829000" />
       <workItem from="1646562474219" duration="3813000" />
       <workItem from="1646673049043" duration="2834000" />
-      <workItem from="1646845657935" duration="1753000" />
+      <workItem from="1646845657935" duration="7361000" />
+      <workItem from="1646992637456" duration="779000" />
+      <workItem from="1647192536132" duration="4009000" />
     </task>
     <task id="LOCAL-00001" summary="Update 21.2.2022">
       <created>1645460939719</created>
@@ -283,7 +294,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646575067992</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Tema curs 5 without AOP">
+      <created>1646847520608</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1646847520608</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -305,6 +323,17 @@
     <MESSAGE value="Update 23.2.2022" />
     <MESSAGE value="Tema Curs3" />
     <MESSAGE value="Tema curs 5 without AOP" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tema curs 5 without AOP" />
+    <MESSAGE value="Tema curs 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tema curs 6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.io.FileNotFoundException" package="java.io" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
