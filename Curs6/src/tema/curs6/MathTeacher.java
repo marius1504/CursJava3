@@ -8,7 +8,8 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.util.Objects;
 import java.util.Properties;
-@Component
+
+@Component()
     public class MathTeacher implements ITeacher{
     private WisdomWordsService wisdomWordsService;
     Properties prop = new Properties();

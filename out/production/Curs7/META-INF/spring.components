@@ -1,2 +1,7 @@
-curs5.MyCustomBeanProcessor=org.springframework.stereotype.Component
-curs5.WebDevTeacher=org.springframework.stereotype.Component
+tema.curs7.Autocar=org.springframework.stereotype.Component
+tema.curs7.Masina=org.springframework.stereotype.Component
+tema.curs7.Motocicleta=org.springframework.stereotype.Component
+tema.curs7.Motor=org.springframework.stereotype.Component
+tema.curs7.MyBean=org.springframework.stereotype.Component
+tema.curs7.ParcAuto=org.springframework.stereotype.Component
+tema.curs7.Parcare=org.springframework.stereotype.Component

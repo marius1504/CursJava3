@@ -2,7 +2,7 @@ package tema.curs6;
 
 import org.springframework.stereotype.Component;
 
-@Component
+@Component()
     public class HistoryTeacher implements ITeacher{
         @Override
         public String getHomework() {

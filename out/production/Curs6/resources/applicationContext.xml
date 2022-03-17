@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:aop="http://www.springframework.org/schema/aop"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans-3.0.xsd
+        http://www.springframework.org/schema/aop
+        http://www.springframework.org/schema/aop/spring-aop-3.0.xsd
+        http://www.springframework.org/schema/context
+       http://www.springframework.org/schema/context/spring-context-3.0.xsd">
+
+<!--    <bean id="myTeacher" class="tema.curs6.JavaTeacher">-->
+<!--        <constructor-arg ref="myHomeworkService"/>-->
+<!--    </bean>-->
+<!--    <bean id="mySecondTeacher" class="tema.curs6.JavaTeacher">-->
+<!--        <constructor-arg ref="myWisdomService"/>-->
+<!--    </bean>-->
+
+<!--    <bean id="myThirdTeacher" class="tema.curs6.JavaTeacher">-->
+<!--        <constructor-arg index="0" ref="myWisdomService"/>-->
+<!--        <constructor-arg index="1" ref="myHomeworkService"/>-->
+<!--        <constructor-arg index="2" value="25"/>-->
+<!--        <property name="age" value="${age}"/>-->
+<!--    </bean>-->
+<!--    <bean id="myWisdomService" class="tema.curs6.WisdomWordsService"/>-->
+<!--    <bean id="myHomeworkService" class="tema.curs6.HomeWorkService"/>-->
+
+<!--    <bean id="mathTeacher" class="tema.curs6.MathTeacher">-->
+<!--        <property name="wisdomWordsService" ref="myWisdomService"/>-->
+<!--    </bean>-->
+
+
+<!--    <context:property-placeholder location="classpath:config.properties"/>-->
+
+    <!-- activeaza scanarea componentelor in pachetul springapp -->
+    <context:component-scan base-package="tema.curs6" />
+
+</beans>
