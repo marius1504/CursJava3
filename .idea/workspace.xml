@@ -4,20 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d88b5bc-3f2d-4676-9f09-2688444ecd1b" name="Changes" comment="Tema curs 6">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="7d88b5bc-3f2d-4676-9f09-2688444ecd1b" name="Changes" comment="Tema curs 7">
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curs6/Curs6.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Curs6/Curs6.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curs6/src/tema/curs6/HistoryTeacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/Curs6/src/tema/curs6/HistoryTeacher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curs6/src/tema/curs6/MathTeacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/Curs6/src/tema/curs6/MathTeacher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curs7/Curs7.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Curs7/Curs7.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curs7/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Curs7/resources/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curs7/src/curs5/MyCustomBeanProcessor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curs7/src/curs5/MyFirstSpringAnnotationApp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curs7/src/curs5/WebDevTeacher.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Curs6/tema/curs6/MathTeacher.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Curs6/tema/curs6/MathTeacher.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curs6/src/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Curs6/src/resources/applicationContext.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +90,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/CursMVN" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Curs8/src" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -108,15 +98,19 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\nichi\IdeaProjects\CursJava3\Curs8\src" />
+      <recent name="C:\Users\nichi\IdeaProjects\CursJava3\Curs8" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\nichi\IdeaProjects\CursJava3\Curs8\src\resources" />
+      <recent name="C:\Users\nichi\IdeaProjects\CursJava3\Curs8\src\tema.curs8" />
+      <recent name="C:\Users\nichi\IdeaProjects\CursJava3\Curs8\src" />
       <recent name="C:\Users\nichi\IdeaProjects\CursJava3\Curs6\src" />
       <recent name="C:\Users\nichi\IdeaProjects\CursJava3\Curs6\src\tema\curs6" />
-      <recent name="C:\Users\nichi\IdeaProjects\CursJava3\Curs5\src" />
-      <recent name="C:\Users\nichi\IdeaProjects\CursJava3\Curs6\resources" />
-      <recent name="C:\Users\nichi\IdeaProjects\CursJava3\Curs3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestMyBean">
+  <component name="RunManager" selected="Application.MyFirstSpringAnnotationApp">
     <configuration name="MyFirstSpringAnnotationApp (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tema.curs6.MyFirstSpringAnnotationApp" />
       <module name="Curs6" />
@@ -130,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyFirstSpringAppV2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tema.curs6.MyFirstSpringAppV2" />
-      <module name="Curs6" />
+    <configuration name="MyFirstSpringAnnotationApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tema.curs8.MyFirstSpringAnnotationApp" />
+      <module name="Curs8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tema.curs6.*" />
+          <option name="PATTERN" value="tema.curs8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -184,11 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyFirstSpringAnnotationApp" />
+        <item itemvalue="Application.MyFirstSpringAnnotationApp (1)" />
         <item itemvalue="Application.TestMyBean" />
         <item itemvalue="Application.TestAutoApp" />
-        <item itemvalue="Application.MyFirstSpringAnnotationApp (1)" />
         <item itemvalue="Application.TaskApp" />
-        <item itemvalue="Application.MyFirstSpringAppV2" />
       </list>
     </recent_temporary>
   </component>
@@ -216,7 +210,8 @@
       <workItem from="1647192536132" duration="5652000" />
       <workItem from="1647275098351" duration="6678000" />
       <workItem from="1647451351743" duration="6452000" />
-      <workItem from="1647546932109" duration="5342000" />
+      <workItem from="1647546932109" duration="7315000" />
+      <workItem from="1647764559865" duration="4935000" />
     </task>
     <task id="LOCAL-00001" summary="Update 21.2.2022">
       <created>1645460939719</created>
@@ -302,7 +297,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647196693176</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Tema curs 7">
+      <created>1647552767587</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1647552767588</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -325,7 +327,8 @@
     <MESSAGE value="Tema Curs3" />
     <MESSAGE value="Tema curs 5 without AOP" />
     <MESSAGE value="Tema curs 6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tema curs 6" />
+    <MESSAGE value="Tema curs 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tema curs 7" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -334,11 +337,6 @@
           <properties class="java.io.FileNotFoundException" package="java.io" />
           <option name="timeStamp" value="1" />
         </breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Curs6/src/tema/curs6/MyFirstSpringAnnotationApp.java</url>
-          <line>4</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>

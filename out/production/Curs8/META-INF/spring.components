@@ -1,0 +1,6 @@
+tema.curs8.AppConfig=org.springframework.stereotype.Component
+tema.curs8.HistoryTeacher=org.springframework.stereotype.Component
+tema.curs8.HomeworkServiceConfiguration=org.springframework.stereotype.Component
+tema.curs8.JavaTeacher=org.springframework.stereotype.Component
+tema.curs8.MathTeacher=org.springframework.stereotype.Component
+tema.curs8.WisdomServiceConfiguration=org.springframework.stereotype.Component
