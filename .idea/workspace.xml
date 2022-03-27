@@ -4,10 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d88b5bc-3f2d-4676-9f09-2688444ecd1b" name="Changes" comment="Tema curs 7">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="7d88b5bc-3f2d-4676-9f09-2688444ecd1b" name="Changes" comment="Tema curs 8">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curs6/src/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Curs6/src/resources/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curs8/src/tema.curs8/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/Curs8/src/tema.curs8/AppConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curs9/Curs9.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Curs9/Curs9.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curs9/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Curs9/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Curs6/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Curs6/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Curs6/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Curs6/resources/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Curs8/tema/curs8/AppConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Curs8/tema/curs8/AppConfig.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +115,7 @@
       <recent name="C:\Users\nichi\IdeaProjects\CursJava3\Curs6\src\tema\curs6" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MyFirstSpringAnnotationApp">
+  <component name="RunManager" selected="Application.MyFirstSpringApp">
     <configuration name="MyFirstSpringAnnotationApp (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tema.curs6.MyFirstSpringAnnotationApp" />
       <module name="Curs6" />
@@ -137,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TaskApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="temacurs5.TaskApp" />
-      <module name="Curs5" />
+    <configuration name="MyFirstSpringApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tema.curs9.MyFirstSpringApp" />
+      <module name="Curs9" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="temacurs5.*" />
+          <option name="PATTERN" value="tema.curs9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -178,11 +183,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyFirstSpringApp" />
         <item itemvalue="Application.MyFirstSpringAnnotationApp" />
         <item itemvalue="Application.MyFirstSpringAnnotationApp (1)" />
         <item itemvalue="Application.TestMyBean" />
         <item itemvalue="Application.TestAutoApp" />
-        <item itemvalue="Application.TaskApp" />
       </list>
     </recent_temporary>
   </component>
@@ -211,7 +216,9 @@
       <workItem from="1647275098351" duration="6678000" />
       <workItem from="1647451351743" duration="6452000" />
       <workItem from="1647546932109" duration="7315000" />
-      <workItem from="1647764559865" duration="4935000" />
+      <workItem from="1647764559865" duration="5385000" />
+      <workItem from="1647981644444" duration="5069000" />
+      <workItem from="1648398265263" duration="285000" />
     </task>
     <task id="LOCAL-00001" summary="Update 21.2.2022">
       <created>1645460939719</created>
@@ -304,7 +311,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647552767588</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Tema curs 8">
+      <created>1647770975689</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1647770975689</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -328,7 +342,8 @@
     <MESSAGE value="Tema curs 5 without AOP" />
     <MESSAGE value="Tema curs 6" />
     <MESSAGE value="Tema curs 7" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tema curs 7" />
+    <MESSAGE value="Tema curs 8" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tema curs 8" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

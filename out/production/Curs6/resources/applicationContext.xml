@@ -23,7 +23,7 @@
 <!--        <constructor-arg index="2" value="25"/>-->
 <!--        <property name="age" value="${age}"/>-->
 <!--    </bean>-->
-<!--    <bean id="myWisdomService" class="tema.curs6.WisdomWordsService"/>-->
+<!--    <bean id="myWisdomService" class="tema.curs6.JavaTeacher.WisdomWordsService"/>-->
 <!--    <bean id="myHomeworkService" class="tema.curs6.HomeWorkService"/>-->
 
 <!--    <bean id="mathTeacher" class="tema.curs6.MathTeacher">-->

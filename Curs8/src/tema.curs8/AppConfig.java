@@ -3,9 +3,9 @@ package tema.curs8;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.*;
 
-@PropertySource(value = {"classpath:resources/config.properties"})
 @Import({WisdomServiceConfiguration.class, HomeworkServiceConfiguration.class})
 @Configuration
+@PropertySource(value = {"classpath:resources/config.properties"})
 @ComponentScan("curs8")
 
 public class AppConfig {
