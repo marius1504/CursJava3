@@ -1,12 +1,14 @@
 package tema.curs9;
 
 import lombok.Data;
+import org.springframework.stereotype.Component;
 
 @Data
+@Component
 public class JavaTeacher implements ITeacher {
 
-    private WisdomWordsService wisdomService = new WisdomWordsService();
-    private int age;
+    private WisdomWordsService wisdomService;
+    private String age;
     private String workPlace;
 
     public JavaTeacher(WisdomWordsService wisdomService) {
@@ -23,20 +25,11 @@ public class JavaTeacher implements ITeacher {
         return wisdomService.getMessage();
     }
 
-//    public int getAge() {
-//        return age;
-//    }
+    public String getAge() {
+        return "The teacher has 28 years";
+    }
+    public String getWorkPlace() {
+        return "The teacher works at Devmind";
+    }
 //
-//    public void setAge(int age) {
-//        this.age = age;
-//    }
-//
-//
-//    public String getWorkPlace() {
-//        return workPlace;
-//    }
-//
-//    public void setWorkPlace(String workPlace) {
-//        this.workPlace = workPlace;
-//    }
 }

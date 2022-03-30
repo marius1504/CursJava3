@@ -4,15 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d88b5bc-3f2d-4676-9f09-2688444ecd1b" name="Changes" comment="Tema curs 8">
+    <list default="true" id="7d88b5bc-3f2d-4676-9f09-2688444ecd1b" name="Changes" comment="Tema curs 9">
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curs8/src/tema.curs8/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/Curs8/src/tema.curs8/AppConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curs9/Curs9.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Curs9/Curs9.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Curs9/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Curs9/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Curs6/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Curs6/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Curs6/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Curs6/resources/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Curs8/tema/curs8/AppConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Curs8/tema/curs8/AppConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curs9/src/main/java/tema/curs9/JavaTeacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/Curs9/src/main/java/tema/curs9/JavaTeacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curs9/src/main/java/tema/curs9/MathTeacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/Curs9/src/main/java/tema/curs9/MathTeacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curs9/src/main/java/tema/curs9/MyFirstSpringApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/Curs9/src/main/java/tema/curs9/MyFirstSpringApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curs9/src/main/java/tema/curs9/WisdomWordsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Curs9/src/main/java/tema/curs9/WisdomWordsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curs9/src/main/resources/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curs9/src/main/resources/file.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curs9/target/Curs9-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curs9/target/classes/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curs9/target/classes/file.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curs9/target/classes/tema/curs9/ITeacher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curs9/target/classes/tema/curs9/JavaTeacher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curs9/target/classes/tema/curs9/MathTeacher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curs9/target/classes/tema/curs9/MyFirstSpringApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curs9/target/classes/tema/curs9/WisdomWordsService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curs9/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curs9/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curs9/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curs9/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,11 +106,16 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Curs8/src" />
+    <property name="jdk.selected.JAVA_MODULE" value="15" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/mvc-example" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -115,7 +135,7 @@
       <recent name="C:\Users\nichi\IdeaProjects\CursJava3\Curs6\src\tema\curs6" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MyFirstSpringApp">
+  <component name="RunManager" selected="JAR Application.Curs9-1.0-SNAPSHOT.jar">
     <configuration name="MyFirstSpringAnnotationApp (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tema.curs6.MyFirstSpringAnnotationApp" />
       <module name="Curs6" />
@@ -155,19 +175,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestAutoApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tema.curs7.TestAutoApp" />
-      <module name="Curs7" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tema.curs7.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TestMyBean" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tema.curs7.TestMyBean" />
       <module name="Curs7" />
@@ -181,13 +188,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Curs9-1.0-SNAPSHOT.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/Curs9/target/Curs9-1.0-SNAPSHOT.jar" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Curs13Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Curs13" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.curs13.Curs13Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JAR Application.Curs9-1.0-SNAPSHOT.jar" />
         <item itemvalue="Application.MyFirstSpringApp" />
         <item itemvalue="Application.MyFirstSpringAnnotationApp" />
         <item itemvalue="Application.MyFirstSpringAnnotationApp (1)" />
         <item itemvalue="Application.TestMyBean" />
-        <item itemvalue="Application.TestAutoApp" />
       </list>
     </recent_temporary>
   </component>
@@ -218,7 +236,8 @@
       <workItem from="1647546932109" duration="7315000" />
       <workItem from="1647764559865" duration="5385000" />
       <workItem from="1647981644444" duration="5069000" />
-      <workItem from="1648398265263" duration="285000" />
+      <workItem from="1648398265263" duration="7047000" />
+      <workItem from="1648579597492" duration="6935000" />
     </task>
     <task id="LOCAL-00001" summary="Update 21.2.2022">
       <created>1645460939719</created>
@@ -318,7 +337,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647770975689</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Tema curs 9">
+      <created>1648398863102</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1648398863103</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -343,14 +369,19 @@
     <MESSAGE value="Tema curs 6" />
     <MESSAGE value="Tema curs 7" />
     <MESSAGE value="Tema curs 8" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tema curs 8" />
+    <MESSAGE value="Tema curs 9" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tema curs 9" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <breakpoint enabled="true" type="java-exception">
+        <breakpoint type="java-exception">
           <properties class="java.io.FileNotFoundException" package="java.io" />
           <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint type="java-exception">
+          <properties class="java.lang.ClassNotFoundException" package="java.lang" />
+          <option name="timeStamp" value="2" />
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>

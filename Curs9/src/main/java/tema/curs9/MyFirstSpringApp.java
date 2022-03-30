@@ -1,12 +1,12 @@
 package tema.curs9;
 
-import org.springframework.context.support.ClassPathXmlApplicationContext;
+import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
 public class MyFirstSpringApp {
     public static void main(String[] args) {
-        ClassPathXmlApplicationContext context = new ClassPathXmlApplicationContext("applicationContext.xml");
+        AnnotationConfigApplicationContext context = new AnnotationConfigApplicationContext(AppConfig.class);
 
-        JavaTeacher theTeacher = context.getBean("myTeacher", JavaTeacher.class);
+        JavaTeacher theTeacher = context.getBean("javaTeacher", JavaTeacher.class);
 
         System.out.println("Wisdom: " + theTeacher.getWisdom());
         System.out.println("Age: " + theTeacher.getAge());

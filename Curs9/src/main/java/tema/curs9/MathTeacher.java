@@ -1,8 +1,10 @@
 package tema.curs9;
 
 import lombok.Data;
+import org.springframework.stereotype.Component;
 
 @Data
+@Component
 public class MathTeacher implements ITeacher {
     private WisdomWordsService wisdomService;
     private static final String MATH_TEACHER_PREFIX = "Math teacher says: ";
