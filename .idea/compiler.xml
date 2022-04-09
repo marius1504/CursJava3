@@ -12,7 +12,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="Curs13" target="11" />
+      <module name="Curs13" target="14" />
       <module name="Curs8" target="15" />
       <module name="Curs9" target="15" />
       <module name="Curs9v2" target="15" />

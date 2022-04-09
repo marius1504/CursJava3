@@ -1,19 +1,45 @@
 package com.example.curs13;
 
-import org.springframework.stereotype.Controller;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.web.servlet.error.ErrorController;
 import org.springframework.ui.Model;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.bind.annotation.*;
 
+import java.time.LocalDateTime;
 import java.util.Locale;
 
-@Controller
-public class TestController {
+@RestController
+public class TestController implements ErrorController {
 
-    @RequestMapping(value ="/time", method = RequestMethod.GET)
-    public String time(Locale locale, Model model){
-        System.out.println("Home Page Requested, locale = " + locale);
+    @Autowired
+    TimeZoneService timeZoneService;
+    @Autowired
+    Hogwarts harryPotter;
+    @Autowired
+    MathService mathService;
 
+    @RequestMapping(value = "/", method = RequestMethod.GET)
+    public String home(Locale locale, Model model) {
 
+        return "";
+    }
+
+//    @RequestMapping(value = "/time", method = RequestMethod.GET)
+//            public LocalDateTime currentTime(@RequestParam(name = "timeZone") String timeZone){
+//            return timeZoneService.getTimeByZone(timeZone);
+//            }
+    @GetMapping("time")
+        public LocalDateTime getCurrentTime(@RequestParam("timeZone") String timeZone){
+            return timeZoneService.getTimeByZone(timeZone);
+    }
+
+    @GetMapping("harry-potter")
+    public String harryPotter() {
+        return harryPotter.getName();
+    }
+
+    @PostMapping("math-service")
+    public String operation(@RequestBody MathServiceParams mathServiceParams) {
+        return "result " + mathService.operationResult(mathServiceParams);
     }
 }
