@@ -8,11 +8,15 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Curs9" />
+        <module name="Curs20" />
+        <module name="Curs15" />
         <module name="Curs13" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Curs13" target="14" />
+      <module name="Curs15" target="18" />
+      <module name="Curs20" target="18" />
       <module name="Curs8" target="15" />
       <module name="Curs9" target="15" />
       <module name="Curs9v2" target="15" />
@@ -22,6 +26,8 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="Curs13" options="-parameters" />
+      <module name="Curs15" options="-parameters" />
+      <module name="Curs20" options="-parameters" />
     </option>
   </component>
 </project>
