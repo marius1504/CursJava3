@@ -4,112 +4,35 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d88b5bc-3f2d-4676-9f09-2688444ecd1b" name="Changes" comment="Tema curs 15">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_13_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_googlecode_json_simple_json_simple_1_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_activation_jakarta_activation_1_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_messaging_saaj_saaj_impl_1_5_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_jws_jakarta_jws_api_2_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_xml_soap_jakarta_xml_soap_api_1_4_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_xml_ws_jakarta_xml_ws_api_2_3_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_atteo_evo_inflector_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jvnet_staxex_stax_ex_1_8_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_rest_2_6_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_services_2_6_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_6_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_rest_core_3_6_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_rest_webmvc_3_6_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_hateoas_spring_hateoas_1_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_core_2_0_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_session_spring_session_core_2_6_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_3_18.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_3_18.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_ws_spring_ws_core_3_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_ws_spring_xml_3_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curs15/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curs15/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curs15/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curs15/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curs15/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curs15/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curs15/src/main/java/com/example/curs15/Curs15Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curs15/src/main/java/com/example/curs15/ReadJson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curs15/src/main/java/controllers/HomeworkController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curs15/src/main/java/model/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curs15/src/main/java/model/CourseDays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curs15/src/main/java/model/CoursesList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curs15/src/main/java/model/Message.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curs15/src/main/java/model/MessageResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curs15/src/main/java/model/Trainer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curs15/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curs15/src/main/resources/exempludejson.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curs15/src/main/resources/jsonArrayList.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curs15/src/main/resources/message.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curs15/src/test/java/com/example/curs15/Curs15ApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curs20/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curs20/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curs20/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curs20/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curs20/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curs20/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curs20/src/main/java/com/example/curs20/Curs20Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curs20/src/main/java/controllers/StudentController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curs20/src/main/java/demo/repository/StudentRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curs20/src/main/java/jpa/repository/JpaRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curs20/src/main/java/models/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curs20/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curs20/src/test/java/com/example/curs20/Curs20ApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Curs3/Curs3/main.class" afterDir="false" />
+    <list default="true" id="7d88b5bc-3f2d-4676-9f09-2688444ecd1b" name="Changes" comment="Curs 16 inceput">
+      <change afterPath="$PROJECT_DIR$/Curs16/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curs16/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curs16/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curs16/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curs16/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curs16/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curs16/src/main/java/com/example/curs16/Curs16Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curs16/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curs16/src/test/java/com/example/curs16/Curs16ApplicationTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_13_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_13_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_javafaker_javafaker_1_0_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_mifmif_generex_1_0_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__dk_brics_automaton_automaton_1_11_8.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_12_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_6_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_6_6.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_6_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_6_6.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_configuration_processor_2_6_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_configuration_processor_2_6_6.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_2_6_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_2_6_6.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_6_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_6_6.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_6_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_6_6.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_6_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_6_6.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_6_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_6_6.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_6_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_6_6.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_6_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_6_6.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_6_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_6_6.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_6_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_6_6.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_3_17.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_3_18.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_3_17.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_3_18.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_3_17.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_3_18.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_3_17.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_3_18.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_3_17.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_3_18.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_17.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_5_3_18.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_3_17.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_3_18.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_3_17.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_18.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_3_17.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_3_18.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_android_1_23.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_13_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_13_2_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_3_15.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_3_15.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_3_15.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_3_15.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_3_15.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_15.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_3_15.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_3_15.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curs3/Curs3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Curs3/Curs3.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curs3/src/Curs3/MyFirstSpringApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/Curs3/src/Curs3/MyFirstSpringApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curs3/src/TemaCurs3/AnimalSpringApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/Curs3/src/TemaCurs3/AnimalSpringApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Curs3/Curs3/HistoryTeacher.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Curs3/Curs3/HistoryTeacher.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Curs3/Curs3/HomeworkService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Curs3/Curs3/HomeworkService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Curs3/Curs3/ITeacher.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Curs3/Curs3/ITeacher.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Curs3/Curs3/JavaTeacher.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Curs3/Curs3/JavaTeacher.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Curs3/Curs3/MathTeacher.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Curs3/Curs3/MathTeacher.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Curs3/Curs3/MyFirstSpringApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Curs3/Curs3/WisdomWordsService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Curs3/Curs3/WisdomWordsService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Curs3/TemaCurs3/AnimalName.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Curs3/TemaCurs3/AnimalName.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Curs3/TemaCurs3/AnimalSpringApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Curs3/TemaCurs3/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Curs3/TemaCurs3/Cat.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Curs3/TemaCurs3/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Curs3/TemaCurs3/Dog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Curs3/TemaCurs3/IAnimal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Curs3/TemaCurs3/IAnimal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Curs3/TemaCurs3/Mouse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Curs3/TemaCurs3/Mouse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curs15/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Curs15/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curs15/src/main/java/controllers/HomeworkController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Curs15/src/main/java/com/example/curs15/controllers/HomeworkController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curs15/src/main/java/model/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/Curs15/src/main/java/model/Message.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curs15/src/main/java/model/MessageResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curs15/src/main/java/model/Trainer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Curs15/src/main/java/model/Trainer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,6 +49,7 @@
         <option value="spring-beans.schema" />
         <option value="Interface" />
         <option value="Class" />
+        <option value="package.json" />
       </list>
     </option>
   </component>
@@ -175,6 +99,13 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="usePluginRegistry" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="25OUQQiBaVhnbYIalPjKLOzVrWB" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -189,9 +120,14 @@
     "RequestMappingsPanelOrder1": "1",
     "RequestMappingsPanelWidth0": "75",
     "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "18",
-    "spring.configuration.checksum": "0b52288a6712f8116ac7d03ce5ea5f8a"
+    "last_opened_file_path": "C:/Node/my-first-app",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "spring.configuration.checksum": "fd7aa3e0d5fc552628b30cd2630310f0"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -214,7 +150,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.ReadJson">
+  <component name="RunManager" selected="Spring Boot.Curs15Application">
     <configuration name="MyFirstSpringAnnotationApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tema.curs8.MyFirstSpringAnnotationApp" />
       <module name="Curs8" />
@@ -268,6 +204,13 @@
     <configuration name="Curs15Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="Curs15" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.curs15.Curs15Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Curs16Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Curs16" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.curs16.Curs16Application" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -335,6 +278,12 @@
       <workItem from="1649343993270" duration="842000" />
       <workItem from="1649502398779" duration="9184000" />
       <workItem from="1650467041968" duration="14975000" />
+      <workItem from="1650725608156" duration="1832000" />
+      <workItem from="1650794111828" duration="724000" />
+      <workItem from="1650803207656" duration="2515000" />
+      <workItem from="1651504200364" duration="2049000" />
+      <workItem from="1651511540682" duration="1753000" />
+      <workItem from="1651903808820" duration="3503000" />
     </task>
     <task id="LOCAL-00001" summary="Update 21.2.2022">
       <created>1645460939719</created>
@@ -462,7 +411,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650488277764</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Tema curs 15">
+      <created>1650742947024</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1650742947024</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -490,7 +446,8 @@
     <MESSAGE value="Tema curs 9" />
     <MESSAGE value="Tema curs 9 error fixed" />
     <MESSAGE value="Tema curs 15" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tema curs 15" />
+    <MESSAGE value="Curs 16 inceput" />
+    <option name="LAST_COMMIT_MESSAGE" value="Curs 16 inceput" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
