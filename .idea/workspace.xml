@@ -4,35 +4,63 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d88b5bc-3f2d-4676-9f09-2688444ecd1b" name="Changes" comment="Curs 16 inceput">
-      <change afterPath="$PROJECT_DIR$/Curs16/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curs16/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curs16/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curs16/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curs16/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curs16/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curs16/src/main/java/com/example/curs16/Curs16Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curs16/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curs16/src/test/java/com/example/curs16/Curs16ApplicationTests.java" afterDir="false" />
+    <list default="true" id="7d88b5bc-3f2d-4676-9f09-2688444ecd1b" name="Changes" comment="Curs 20">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/af652a0f-9a50-45bf-9806-1df430ffc08c.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/af652a0f-9a50-45bf-9806-1df430ffc08c/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/af652a0f-9a50-45bf-9806-1df430ffc08c/storage_v2/_src_/schema/mysql.osA4Bg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/af652a0f-9a50-45bf-9806-1df430ffc08c/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/af652a0f-9a50-45bf-9806-1df430ffc08c/storage_v2/_src_/schema/sys.zb4BAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Java_EE_6_Java_EE_6__2_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_3_0_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_4_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_persistence_jakarta_persistence_api_2_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_transaction_jakarta_transaction_api_1_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_2_3_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_txw2_2_3_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_1_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_5_6_7_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_2_4_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_3_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_6_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_2_6_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_6_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_2_6_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_5_3_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_3_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_5_3_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curs20/src/main/java/com/example/curs20/associaton/Adresa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curs20/src/main/java/com/example/curs20/associaton/Materie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curs20/src/main/java/com/example/curs20/associaton/Profesor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curs20/src/main/java/com/example/curs20/associaton/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curs20/src/main/java/com/example/curs20/associaton/StudentiToMaterie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curs20/src/main/java/com/example/curs20/controllers/DemoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curs20/src/main/java/com/example/curs20/controllers/ProfesorController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curs20/src/main/java/com/example/curs20/controllers/StudentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curs20/src/main/java/com/example/curs20/repositories/MaterieRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curs20/src/main/java/com/example/curs20/repositories/ProfesorRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curs20/src/main/java/com/example/curs20/repositories/StudentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curs20/src/main/java/com/example/curs20/repositories/StudentiToMaterieRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curs20/src/main/java/com/example/curs20/services/ProfesorService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curs20/src/main/java/com/example/curs20/services/StudentService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_13_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_13_2_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_3_15.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_3_15.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_3_15.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_3_15.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_3_15.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_15.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_3_15.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_3_15.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Curs15/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Curs15/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curs15/src/main/java/controllers/HomeworkController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Curs15/src/main/java/com/example/curs15/controllers/HomeworkController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curs15/src/main/java/model/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/Curs15/src/main/java/model/Message.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curs15/src/main/java/model/MessageResponse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curs15/src/main/java/model/Trainer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Curs15/src/main/java/model/Trainer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curs20/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Curs20/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curs20/src/main/java/com/example/curs20/Curs20Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/Curs20/src/main/java/com/example/curs20/Curs20Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curs20/src/main/java/controllers/StudentController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curs20/src/main/java/demo/repository/StudentRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curs20/src/main/java/jpa/repository/JpaRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/Curs20/src/main/java/com/example/curs20/repositories/JpaRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curs20/src/main/java/models/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curs20/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Curs20/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,9 +75,9 @@
       <list>
         <option value="Tag Library Descriptor" />
         <option value="spring-beans.schema" />
-        <option value="Interface" />
-        <option value="Class" />
         <option value="package.json" />
+        <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -96,6 +124,22 @@
       </RecentBranches>
     </option>
   </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="false" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="false" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
+      </map>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -124,10 +168,18 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "18",
-    "last_opened_file_path": "C:/Node/my-first-app",
+    "last_opened_file_path": "C:/React project/curs24",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "MavenSettings",
-    "spring.configuration.checksum": "fd7aa3e0d5fc552628b30cd2630310f0"
+    "spring.configuration.checksum": "fcc7f16bd6d60074de1a9521fa9e90f8"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ],
+    "com.intellij.ide.scratch.LRUPopupBuilder$1/SQL Dialect": [
+      "MySQL"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
@@ -142,6 +194,9 @@
       <recent name="C:\Users\nichi\IdeaProjects\CursJava3\Curs6\src" />
       <recent name="C:\Users\nichi\IdeaProjects\CursJava3\Curs6\src\tema\curs6" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="configurationTypes">
@@ -150,7 +205,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.Curs15Application">
+  <component name="RunManager" selected="Spring Boot.Curs20Application">
     <configuration name="MyFirstSpringAnnotationApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tema.curs8.MyFirstSpringAnnotationApp" />
       <module name="Curs8" />
@@ -235,6 +290,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RunApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Curs20" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="main.RunApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Spring Boot.ReadJson" />
@@ -283,7 +345,11 @@
       <workItem from="1650803207656" duration="2515000" />
       <workItem from="1651504200364" duration="2049000" />
       <workItem from="1651511540682" duration="1753000" />
-      <workItem from="1651903808820" duration="3503000" />
+      <workItem from="1651903808820" duration="24415000" />
+      <workItem from="1652110638363" duration="123000" />
+      <workItem from="1652110807279" duration="717000" />
+      <workItem from="1652115373134" duration="639000" />
+      <workItem from="1652200525776" duration="9856000" />
     </task>
     <task id="LOCAL-00001" summary="Update 21.2.2022">
       <created>1645460939719</created>
@@ -418,7 +484,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650742947024</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Curs 16 inceput">
+      <created>1651908465376</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1651908465376</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -447,7 +520,8 @@
     <MESSAGE value="Tema curs 9 error fixed" />
     <MESSAGE value="Tema curs 15" />
     <MESSAGE value="Curs 16 inceput" />
-    <option name="LAST_COMMIT_MESSAGE" value="Curs 16 inceput" />
+    <MESSAGE value="Curs 20" />
+    <option name="LAST_COMMIT_MESSAGE" value="Curs 20" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

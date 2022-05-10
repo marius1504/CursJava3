@@ -7,14 +7,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Curs20" />
         <module name="Curs15" />
+        <module name="Curs20" />
         <module name="Curs13" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Curs13" target="14" />
-      <module name="Curs15" target="18" />
+      <module name="Curs15" target="17" />
       <module name="Curs16" target="18" />
       <module name="Curs20" target="17" />
       <module name="Curs8" target="15" />

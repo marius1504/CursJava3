@@ -1,4 +1,4 @@
-package jpa.repository;
+package com.example.curs20.repositories;
 
 import org.springframework.data.domain.Example;
 import org.springframework.data.domain.Sort;
